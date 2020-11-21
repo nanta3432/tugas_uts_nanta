@@ -1,0 +1,34 @@
+.header{
+    background-color: rgb(156, 146, 242);
+    padding: 3rem;
+}
+.a-header{
+    text-decoration: none;
+    padding: 1rem;
+    color: black;
+}
+.a-header:hover{
+    text-decoration: none;
+    padding: 1rem;
+    color: black;
+    background-color: honeydew;
+}
+.body{
+    background-color: rgb(232, 232, 232);
+}
+.konten{
+    margin: 10rem;
+    width: 80%;
+}
+.side-bar{
+    background-color: white;
+    float: right;
+    width: 20%;
+    height: 100rem;
+    padding: 2rem;
+}
+.side-link{
+    text-decoration: none;
+    color: gray;
+    padding:2rem ;
+}
